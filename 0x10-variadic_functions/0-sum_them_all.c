@@ -5,7 +5,7 @@
  * sum_them_all - returns the sum of all its parameters
  * @n: the number of parameter to be entered
  * ...: variable number of parameter to calculate the sum
- * Return: If n == 0
+ * Return: If n == 0-0
  	otherwise - the sum of all parameters
 */
 
